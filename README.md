@@ -10,11 +10,7 @@ Each project resides in its own dedicated subfolder and contains its own detaile
 
 | Project Folder | Domain / Type | Key Technologies | Status |
 | :--- | :--- | :--- | :--- |
-| **[Heart-Disease-Prediction](Heart-Disease-Prediction/)** | Classification / Healthcare | Python, Scikit-learn, Pandas, Matplotlib | Completed |
-| **[project-time-series-analysis](project-time-series-analysis/)** | Time Series Forecasting | Python, Prophet, ARIMA, Plotly | In Progress |
-| **[project-image-classification](project-image-classification/)** | Deep Learning / Computer Vision | Python, TensorFlow/Keras, CNNs | Completed |
-| **[project-nlp-sentiment](project-nlp-sentiment/)** | Natural Language Processing | Python, NLTK, Transformers, PyTorch | Completed |
-| [New-Project-Name](/new-project-name) | Regression / Finance | R, Tidyverse, Linear Models | Planning |
+| **[Heart-Disease-Prediction](Heart-disease-prediction/)** | Classification / Healthcare | Python, Scikit-learn, Pandas, Matplotlib | Completed |
 
 ---
 
@@ -25,7 +21,6 @@ The projects in this repository demonstrate proficiency across various tools and
 ### **Programming & Data Handling**
 * **Python:** Pandas, NumPy, Scikit-learn
 * **SQL:** Database querying and management
-* **R:** Statistical analysis and visualization
 
 ### **Machine Learning & Deep Learning**
 * **Algorithms:** Linear/Logistic Regression, Decision Trees, Random Forests, Gradient Boosting (XGBoost, LightGBM)
@@ -47,7 +42,7 @@ To explore any of these projects:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourUsername/ds-projects.git](https://github.com/YourUsername/ds-projects.git)
+    git clone [https://github.com/YourUsername/ds-projects.git](https://github.com/sachinshah16/DS_Projects.git)
     cd ds-projects
     ```
 2.  **Navigate to a Project:**
@@ -66,6 +61,6 @@ To explore any of these projects:
 
 Feel free to connect or reach out!
 
-* **[LinkedIn Profile](https://www.linkedin.com/in/Your-LinkedIn-URL)**
-* **[Personal Website / Blog (Optional)](https://www.yourwebsite.com)**
-* **Email:** your.email@example.com
+* **[LinkedIn Profile](https://www.linkedin.com/in/sachinshah16)**
+* **[Personal Website / Blog (Optional)](https://bit.ly/sachinshah16)**
+* **Email:** sachin.k.shah13@example.com
