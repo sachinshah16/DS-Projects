@@ -61,6 +61,6 @@ To explore any of these projects:
 
 Feel free to connect or reach out!
 
-* **[LinkedIn Profile](https://www.linkedin.com/in/sachinshah16)**
-* **[Personal Website / Blog (Optional)](https://bit.ly/sachinshah16)**
+* **[LinkedIn Profile](https://www.linkedin.com/in/sachin-shah16)**
+* **[Personal Website](https://bit.ly/sachinshah16)**
 * **Email:** sachin.k.shah13@example.com
